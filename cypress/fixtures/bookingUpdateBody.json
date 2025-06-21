@@ -1,0 +1,11 @@
+{
+  "firstname": "Napoleao",
+  "lastname": "M. de Almeida",
+  "totalprice": 1750,
+  "depositpaid": true,
+  "bookingdates": {
+      "checkin": "2025-04-01",
+      "checkout": "2025-04-07"
+  },
+  "additionalneeds": "Breakfast"
+}

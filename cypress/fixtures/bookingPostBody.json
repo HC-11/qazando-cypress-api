@@ -1,0 +1,11 @@
+{
+  "firstname": "Gilberto",
+  "lastname": "Maranhao",
+  "totalprice": 2500,
+  "depositpaid": true,
+  "bookingdates": {
+      "checkin": "2025-01-04",
+      "checkout": "2025-01-09"
+  },
+  "additionalneeds": "2 beds, Breakfast in bed"
+}
